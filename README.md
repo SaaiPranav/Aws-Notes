@@ -2,7 +2,7 @@
 
 # The Web Servers
 ## The Nginix server
-  # The installation instruction of the server
+###### The installation instruction of the server
   
    a) Update command
    
@@ -18,9 +18,9 @@
      
 ## The Tomcat server
 
-  # The installation instruction of the server
+  The installation instruction of the server
 ## The Jenkins server
-  # The installation instruction of the server
+######  The installation instruction of the server
   
     a) The key command
     
