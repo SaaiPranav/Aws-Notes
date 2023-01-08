@@ -45,3 +45,26 @@
 ## The lighttpd server
 ## The Jigsaw server
 
+### The Cloud provider
+1) AWS
+2) Azure
+3) GCP
+4) Alibaba cloud
+5) IBM cloud
+
+Category of 
+a) Public cloud provider
+b) Private cloud provider
+c) Hybrid cloud provider
+
+Types of services
+1) SAAS(Software as a service):google cloud
+2) PAAS(Platform as a service):AWS
+3) IAAS:AWS
+
+latency: The time taken for the application to display
+edge of location server/point pf present
+cdn(content delivery network)
+
+
+
