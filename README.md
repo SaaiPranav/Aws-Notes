@@ -15,6 +15,20 @@
    c) Verfiying after installing the package
    
         sudo nginx -v
+        
+###### Start command for the Nginx server
+
+    a) Start of the Nginx server
+        sudo systemctl start nginx
+        
+    b) Status of the Nginx server
+        sudo systemctl status nginx
+        
+    c) Stop of the Nginx server
+        sudo systemctl stop nginx
+        
+    d) Restart of the Nginx server
+        sudo systemctl reload nginx
      
 ## The Tomcat server
 
