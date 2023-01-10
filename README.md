@@ -52,6 +52,9 @@
           sudo apt-get update
           sudo apt-get install fontconfig openjdk-11-jre
           sudo apt-get install jenkins
+          
+      
+###### Start 
     
     
 ## The Apache server
