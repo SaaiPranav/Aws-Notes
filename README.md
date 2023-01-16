@@ -85,3 +85,25 @@ cdn(content delivery network)
 
 
 
+# Advantage of Elastic compute cloud
+1) Pay as you go
+
+## Types of instances
+1) On demand instances
+2) Reserved instances
+3) Spot instances
+
+## On demand instance
+When we have unpredictable workload-When I'm testing my application for the first time
+-Pricing: price/sec or/min
+
+## Reserved instances
+When the work load is predicatble and stable- I will know how much load will our application take place
+-Reserved capacity- 1yr/3yr
+
+
+
+
+
+
+
