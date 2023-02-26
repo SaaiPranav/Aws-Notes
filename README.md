@@ -101,6 +101,27 @@ When we have unpredictable workload-When I'm testing my application for the firs
 When the work load is predicatble and stable- I will know how much load will our application take place
 -Reserved capacity- 1yr/3yr
 
+## Types of instances
+1) Standard RI - No choice of reselling
+2) Convertable RI - we can only upgrade
+3) Schedule RI 
+
+## Pricing of RI
+1) Full upfront - Pay 100% once at a time.
+2) Partial upfront - Pay 30%-50% once and remaining on monthly basis with reduced hourly basis
+3) No upfront - Pay everything on monthly basis.
+
+
+## Spot Instance
+The instance that uses spare EC2 capacity that is available which is less than the on-demand price.
+1) bid price >= aws spot price : will be given
+2) bid < aws spot price: will not be given
+
+Whenver the aws spot price is increased then the instance will be terminated.
+
+## When we can go for spot instance
+1) If we are not going to use on monthly basis
+2) If we are not going to test the application then bid the price against the aws spot price.
 
 
 
